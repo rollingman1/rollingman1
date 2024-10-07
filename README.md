@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Visit my io~ [조수현의 개발 일지](https://rollingman1.github.io/)
+Visit my blog ([https://rollingman1.github.io/](https://velog.io/@rollingman1/posts))
 
 <!--
 **rollingman1/rollingman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
