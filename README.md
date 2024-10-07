@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Visit my blog ([https://rollingman1.github.io/](https://velog.io/@rollingman1/posts))
+Visit my blog ([link](https://velog.io/@rollingman1/posts))
 
 <!--
 **rollingman1/rollingman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
